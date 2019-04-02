@@ -1,4 +1,4 @@
-# HeroList
+# HeroList<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
