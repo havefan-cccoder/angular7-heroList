@@ -1,4 +1,4 @@
-# HeroList
+# HeroList<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
@@ -26,3 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # angular7-heroList
+a new angular7 project,installed by Angular CLI & code by some comments in lines
